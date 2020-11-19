@@ -1,0 +1,57 @@
+[
+	{
+		"_id": "5d713995b721c3bb38c1f5d0",
+		"user": "5d7a514b5d2c12c7449be045",
+		"name": "Lawnmower",
+		"description": "John Deere Lawnmower avaibale for rent. In perfect working order. Can be rented for 1-7 days",
+		"phone": "(111) 111-1111",
+		"email": "enroll@devworks.com",
+		"address": "233 Bay State Rd Boston MA 02215",
+		"rentalCost": "15 per day",
+		"deposit": 250
+	},
+	{
+		"_id": "5d713a66ec8f2b88b8f830b8",
+		"user": "5d7a514b5d2c12c7449be046",
+		"name": "Bicyle",
+		"description": "Trek road bike avaiable for rent. 21 gears and just serviced",
+		"phone": "(111) 111-1111",
+		"email": "sjy@gmail.com",
+		"address": "220 Pawtucket St, Lowell, MA 01854",
+		"rentalCost": "10 per day",
+		"deposit": 850
+	},
+	{
+		"_id": "5d725a037b292f5f8ceff787",
+		"user": "5c8a1d5b0190b214360dc031",
+		"name": "Hedge Clippers",
+		"description": "Hedge clippers. Sharp blades. Can cut through branches but not trunks. 0.5kg",
+		"phone": "(111) 111-1111",
+		"email": "shanes@gmail.com",
+		"address": "85 South Prospect Street Burlington VT 05405",
+		"rentalCost": "5 per day",
+		"deposit": 50
+	},
+	{
+		"_id": "5d725a1b7b292f5f8ceff788",
+		"user": "5c8a1d5b0190b214360dc032",
+		"name": "Wheel Barrow",
+		"description": "Wheel barrow that can take up to 30kg in weight. New type recently installed",
+		"phone": "(111) 111-1111",
+		"email": "typo@gmail.com",
+		"address": "45 Upper College Rd Kingston RI 02881",
+		"rentalCost": "10 per week",
+		"deposit": 100
+	},
+	{
+		"_id": "5d725c84c4ded7bcb480eaa0",
+		"user": "5d7a514b5d2c12c7449be045",
+		"name": "Electric Screwdriver",
+		"description": "High quality electric screwdriver with changeable heads",
+		"phone": "(111) 111-1111",
+		"email": "oiups@gmail.com",
+		"address": "233 Bay State Rd Boston MA 02215",
+		"rentalCost": "20 per day",
+		"deposit": 400
+	}
+}
