@@ -8,12 +8,12 @@ const errorHandler = (err, req, res, next) => {
 
     // Incorrect id error
     if (err.name === 'CastError') {
-        const message = `Product not found with i.d. of ${err.value}`;
+        const message = `Resource not found with i.d. of ${err.value}`;
         error = new Error(message, 404);
     }
     // Duplicate entry
     if (err.code === 11000) {
-        const message = 'Duplicate field enetered';
+        const message = 'Duplicate field entered';
         error = new ErrorResponse(message, 400);
     }
     // Missing fields error 
